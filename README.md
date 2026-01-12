@@ -1,7 +1,12 @@
 ## Hi there 👋
-**Main Languages**
+**Main Skills**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
+
+**Currently Learning**
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,r,opencv)](https://skillicons.dev)
+
 <!--
 **JacksonD23/JacksonD23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
