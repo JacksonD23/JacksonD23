@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Main Languages
+[![My Skills](https://skillicons.dev/icons?i=java,python,c++)](https://skillicons.dev)
 <!--
 **JacksonD23/JacksonD23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
