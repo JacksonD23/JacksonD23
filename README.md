@@ -1,5 +1,5 @@
 ## Hi there 👋
-Main Languages
+**Main Languages**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
 <!--
